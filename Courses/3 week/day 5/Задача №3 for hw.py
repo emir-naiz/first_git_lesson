@@ -6,3 +6,4 @@ string1 = string[1:5]
 string1 = string.replace('h','H')
 print(string1)
 
+

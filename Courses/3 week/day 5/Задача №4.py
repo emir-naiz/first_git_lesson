@@ -14,3 +14,4 @@ for digit in number:
 print(list1)
 print(number)
 print(max(list1))
+
