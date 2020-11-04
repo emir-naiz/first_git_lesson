@@ -1,0 +1,4 @@
+intel hd
+nvidia
+amd
+
